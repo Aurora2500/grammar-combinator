@@ -1,0 +1,28 @@
+{
+  "name": "grammar-combinator",
+  "version": "1.0.0",
+  "description": "A typescript combinator parser",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Aurora2500/grammar"
+  },
+  "keywords": [
+    "parser",
+    "parser-combinator"
+  ],
+  "author": "Aurora Zuoris <programming.aurora@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.195",
+    "typescript": "^5.0.4",
+    "vite-tsconfig-paths": "^4.2.0",
+    "vitest": "^0.31.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
